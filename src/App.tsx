@@ -6,7 +6,7 @@ function App() {
   return (
 <MantineProvider defaultColorScheme="auto">
       <Layout>
-        <h1>ciao sono header</h1>
+        <h1>ciao sono Giorgia</h1>
       </Layout>
     </MantineProvider>
   )
